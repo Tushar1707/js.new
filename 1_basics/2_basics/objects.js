@@ -64,10 +64,10 @@ const course ={
 const {duration} = course
 console.log(duration);
 
-{
-    "name" = "Tushar",
-    "age" = 25,
-    "occupation" = "Software Engineer"
+// {
+//     "name" = "Tushar",
+//     "age" = 25,
+//     "occupation" = "Software Engineer"
 
 
-}
+// }
